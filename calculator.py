@@ -23,7 +23,7 @@ def add(a, b):
     """Add two numbers"""
     return a + b
 
-def sub(a, b):
+def subtract(a, b):
     """Subtract b from a"""
     return a - b
 
@@ -37,7 +37,7 @@ def div(a, b):
         raise ZeroDivisionError("Cannot divide by zero")
     return b / a
 
-def log(a, b):
+def logarithm(a, b):
     """Calculate logarithm base a of b"""
     if a <= 0 or a == 1:
         raise ValueError("Invalid base for logarithm")
