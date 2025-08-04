@@ -1,4 +1,4 @@
-# https://github.com/[YOUR_USERNAME]/lab10-[YOUR_INITIALS]-[YOUR_INITIALS]
+# https://github.com/ccarranzacarlos/lab10-CC.git
 # Partner 1: Carlos Carranza Santos (both roles)
 
 import unittest
