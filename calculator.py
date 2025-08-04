@@ -1,6 +1,5 @@
 # https://github.com/[YOUR_USERNAME]/lab10-[YOUR_INITIALS]-[YOUR_INITIALS]
-# Partner 1: [YOUR_NAME]
-# Partner 2: [YOUR_NAME] (doing both roles)
+# Partner 1: Carlos Carranza Santos (Doing both roles)
 
 """
 calculator.py
